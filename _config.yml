@@ -21,16 +21,23 @@
 title: To create something, anything 
 email: anandssandbox@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog for me to learn about investing, programming and everything else I find interesting. 
+  Exploring tech, finace, investing, programming and anything else I find interesting. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'Non twitter user' 
 github_username:  anandanewb
 
 # Build settings
-theme: minima
+remote-theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-include-cache
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
