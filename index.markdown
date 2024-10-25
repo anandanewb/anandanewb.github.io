@@ -4,7 +4,6 @@
 
 layout: page
 title: Programming, value investing and everything in between
----
 
 # 1.  Investing
     1. Berkshire Hathaway
@@ -30,3 +29,5 @@ title: Programming, value investing and everything in between
 # 4. Tech
 
 # 5. Home
+
+---
