@@ -21,8 +21,7 @@
 title: To create something, anything 
 email: anandssandbox@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog for me to learn about investing, programming and everything else 
-  that I find interesting. 
+  This is a blog for me to learn about investing, programming and everything else I find interesting. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'Non twitter user' 
