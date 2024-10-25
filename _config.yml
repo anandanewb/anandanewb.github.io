@@ -27,14 +27,10 @@ url: "https://anandanewb.github.io" # the base hostname & protocol for your site
 github_username:  anandanewb
 
 # Build settings
-theme: cayman 
+theme: jekyll-theme-cayman 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-include-cache
+  - jekyll-remote-theme:w
+  
 
 
 # Exclude from processing.
