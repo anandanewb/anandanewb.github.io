@@ -6,10 +6,10 @@ layout: page
 title: Programming, value investing and everything in between
 ---
 
-# Investing
+# 1.  Investing
     Value Investing
 
-# Programming
+# 2. Programming
     Python
     Pandas
     Django
@@ -18,8 +18,8 @@ title: Programming, value investing and everything in between
     Amplify
 
 
-# Books
+# 3. Books
 
-# Tech
+# 4. Tech
 
-# Home
+# 5. Home
