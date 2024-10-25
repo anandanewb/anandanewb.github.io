@@ -28,7 +28,7 @@ twitter_username: 'Non twitter user'
 github_username:  anandanewb
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
