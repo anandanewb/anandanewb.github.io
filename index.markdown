@@ -7,15 +7,22 @@ title: Programming, value investing and everything in between
 ---
 
 # 1.  Investing
-    Value Investing
+    1. Berkshire Hathaway
+    2. Charlie Munger
+    3. Howard Marks
+    4. Nomad Partners
+    5. Nalanda Capital 
+    6. Marcellus
+    7. Investing Podcasts
+    
 
 # 2. Programming
-    Python
-    Pandas
-    Django
-    Git
-    React
-    Amplify
+    1. Python
+    2. Pandas
+    3. Django
+    4. Git
+    5. React
+    6. Amplify
 
 
 # 3. Books
