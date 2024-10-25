@@ -4,3 +4,21 @@
 
 layout: home
 ---
+
+# Investing
+    Value Investing
+
+# Programming
+    Python
+    Pandas
+    Django
+    Git
+    React
+    Amplify
+
+
+# Books
+
+# Tech
+
+# Home
