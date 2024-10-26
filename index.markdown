@@ -22,7 +22,7 @@ layout: default
 
 # 3. Books
     ## Investing and Business
-    - [The Myth of Capitalism: Monopolies and the Death of Competition] (https://amzn.eu/d/4L3MFJZ)
+    [The Myth of Capitalism: Monopolies and the Death of Competition] (https://amzn.eu/d/4L3MFJZ)
     - [The Psychology of Money by Morgan Housel](https://amzn.eu/d/7q8NDxf)
     - [How to Read a Financial Report: Wringing Vital Signs Out of the Numbers](https://amzn.eu/d/9dFxFfl)
 
