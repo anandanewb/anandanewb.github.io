@@ -21,10 +21,10 @@
 title: To create something, anything 
 email: anandssandbox@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Exploring tech, finace, investing, programming and anything else I find interesting. 
+   Investing, Programming, Psychology and anything else I find interesting. 
 baseurl: ""
 url: "https://anandanewb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  anandanewb
+#github_username:  anandanewb
 
 # Build settings
 theme: jekyll-theme-architect 
